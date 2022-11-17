@@ -10,8 +10,6 @@ It's still in it's early stages, but autonomous driving is becoming a reality. I
 ### So why the choice for a simulation environment? 
 Because models from simulation are transferable to real life. Simulating gives us the advantage to speed up time, do things in parallel with lot's of cars, avoid expensive crashes and not having to create dangerous real life situations. Also it's a lot cheaper than buying and modifying a real car.
 
-## A video walkthrough is available **[here](https://youtu.be/_Bzw2B-9QkM)** on my channel.
-
 ### Requirements
 
  - The project right here
